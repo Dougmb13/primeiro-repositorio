@@ -1,3 +1,3 @@
-# Primeiro Repósitorio
+# Primeiro Repositório
 
-Meu primeiro repósitorio
+Meu primeiro repositório
